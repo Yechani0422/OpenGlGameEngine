@@ -24,24 +24,6 @@
     <ClCompile Include="source\KeyInput.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="source\main_5-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="source\main_w2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="source\main_w3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="source\main_w5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="source\main_w6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="source\main_w6_report.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="source\NonRenderableObject.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
